@@ -2,6 +2,10 @@
 
 A simple and user-friendly tool to calculate your mortgage total and monthly repayments.
 
+## Live server
+
+You can visit the live server here: [https://ahmedafify98.github.io/Mortgage-Calculator/]
+
 ## Features
 
 - Calculate total mortgage cost and monthly payments
