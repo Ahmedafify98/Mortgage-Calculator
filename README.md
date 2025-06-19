@@ -4,7 +4,7 @@ A simple and user-friendly tool to calculate your mortgage total and monthly rep
 
 ## Live server
 
-You can visit the live server here: [https://ahmedafify98.github.io/Mortgage-Calculator/]
+You can visit the live server [here](https://ahmedafify98.github.io/Mortgage-Calculator/)
 
 ## Features
 
